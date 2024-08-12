@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a grad student @ Texas A&M University; Majors: Business Analytics<br>👯 I’m looking to collaborate on data projects which solves real - world problems<br>🌱 I’m currently learning Advanced SQL functions<br>💬 Ask me about predictive modeling techniques or data visualization tools
+🔭 Recent grad from TAMU; Majors: Business Analytics<br>👯 I’m looking to collaborate on data projects which solves real - world problems<br>🌱 I’m currently learning Advanced SQL functions<br>💬 Ask me about predictive modeling techniques or data visualization tools
 
 
 ## 🌐 Socials:
